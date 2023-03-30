@@ -81,3 +81,5 @@ VALUES (1, 1, '123 Lenina', 'Moscow'), (2, 2, '456 Pyshkina', 'Rostov'), (3, 3, 
 -- SELECT * FROM people inner join  phones on people.person_id = phones.person_id;
 
 -- select * from people,phones; -- из двух таблиц вывести все 
+
+MySQL Workbench
